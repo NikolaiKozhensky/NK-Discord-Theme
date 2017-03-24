@@ -1,1 +1,1 @@
-# DiscordThemeNikolai
+# Discord Themes by Nikolai Kozhensky
